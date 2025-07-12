@@ -1,0 +1,12 @@
+{
+  "name": "Don Perro",
+  "symbol": "DOP",
+  "description": "Just a dog with dreams of going to the moon",
+  "image": "https://raw.githubusercontent.com/FriGo74/dop-logo/main/Donperro-X-memecoin-token-100x100.png",
+  "decimals": 6,
+  "tags": ["social-token"],
+  "extensions": {
+    "website": "https://donperro.io",
+    "twitter": "https://x.com/DonPerro386"
+  }
+}
