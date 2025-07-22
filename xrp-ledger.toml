@@ -1,0 +1,16 @@
+# XRP Ledger TOML File
+# Located at: https://donperro.io/.well-known/xrp-ledger.toml
+
+[[CURRENCIES]]
+code = "DOP"
+issuer = "rDonperro1nVCQjF5g4aMRzyTNZr8BbRPN"
+name = "Don Perro"
+desc = "Just a dog with dreams of going to the moon"
+icon = "https://raw.githubusercontent.com/FriGo74/dop-logo/main/Donperro-X-memecoin-token-100x100.png"
+
+[[ACCOUNTS]]
+address = "rDonperro1nVCQjF5g4aMRzyTNZr8BbRPN"
+network = "mainnet"
+email = "cryptobumpster@donperro.io"
+twitter = "https://x.com/DonPerro386"
+telegram = "https://t.me/+TO_GOJ9aLwU5ZTRh"
